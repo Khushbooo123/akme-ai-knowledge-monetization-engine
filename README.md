@@ -1,5 +1,5 @@
-AKME – AI Knowledge Monetization Engine
-Overview
+**AKME – AI Knowledge Monetization Engine**
+**Overview**
 
 AKME (AI Knowledge Monetization Engine) is a structured system that transforms raw operational knowledge into AI-ready, reusable, and monetizable intellectual assets.
 
@@ -9,7 +9,7 @@ Raw Expertise → Structured Intelligence → AI Modules → Revenue Models
 
 This project demonstrates a scalable knowledge architecture framework designed for consultants, operations teams, AI practitioners, and enterprises.
 
-Problem Statement
+**Problem Statement**
 
 Modern professionals and organizations struggle with:
 
@@ -25,27 +25,27 @@ Knowledge loss across operations
 
 AKME provides a systematic solution.
 
-System Architecture
+**System Architecture**
 
 AKME is built across five structured layers:
 
-1. Knowledge Intake Layer
+1. **Knowledge Intake Layer**
 
 Captures raw insights, observations, and operational experience.
 
-2. Structuring & Classification Layer
+2. **Structuring & Classification Layer**
 
 Transforms inputs into categorized, reusable knowledge blocks.
 
-3. AI Prompt Intelligence Layer
+3. **AI Prompt Intelligence Layer**
 
 Converts structured knowledge into reusable AI prompt modules.
 
-4. Case Simulation Layer
+4. **Case Simulation Layer**
 
 Tests knowledge transformation using real-world scenarios.
 
-5. Monetization Engine Layer
+5. **Monetization Engine Layer**
 
 Designs consulting, digital product, and SaaS-style revenue models.
 
@@ -59,7 +59,7 @@ examples/    → Implementation use cases
 Core Components
 Knowledge Intake Dataset
 
-Captures:
+**Captures:**
 
 Business Domain
 
@@ -130,7 +130,7 @@ SaaS Product Development
 
 Strategic Impact
 
-AKME demonstrates:
+**AKME demonstrates:**
 
 Knowledge as Infrastructure
 
@@ -142,7 +142,7 @@ Monetizable Knowledge Architecture
 
 Structured Intellectual Asset Engineering
 
-Future Expansion
+**Future Expansion**
 
 API-driven AI integration
 
