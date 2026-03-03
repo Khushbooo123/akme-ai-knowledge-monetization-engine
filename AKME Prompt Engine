@@ -1,0 +1,217 @@
+***AI Extraction & Asset Conversion System***
+
+This page contains the **5 master prompts** used to convert raw knowledge into AI-ready monetizable assets.
+
+---
+
+# 1️⃣ Logic Extraction Prompt
+
+**Purpose:** Convert unstructured insight into structured decision logic.
+
+---
+
+### 📌 Prompt
+
+```
+You are a strategic knowledge structuring engine.
+
+Convert the following professional insight into structured decision logic.
+
+Follow this exact format:
+
+Trigger:
+Condition:
+Action:
+Outcome:
+Pattern Type:
+
+Rules:
+- Be concise.
+- Make logic reusable.
+- Do not summarize — extract decision structure.
+- Pattern Type should be 1–2 words (e.g., Governance, Revenue, Strategy, Positioning, Execution).
+
+Insight:
+[Paste raw knowledge here]
+```
+
+---
+
+### 🎯 Output Goes To:
+
+Structured_Knowledge_Framework.xlsx
+
+→ Decision Logic Extractor sheet
+
+---
+
+# 2️⃣ Pattern Identification Prompt
+
+**Purpose:** Identify recurring structural patterns across multiple entries.
+
+---
+
+### 📌 Prompt
+
+```
+You are a knowledge pattern analyst.
+
+Below are structured decision logic entries.
+
+Tasks:
+1. Identify recurring structural patterns.
+2. Group similar problems together.
+3. Name each pattern clearly.
+4. Explain the core issue behind each pattern in 2 concise lines.
+
+Entries:
+[Paste 5–10 structured logic entries here]
+```
+
+---
+
+### 🎯 Output Goes To:
+
+Structured_Knowledge_Framework.xlsx
+
+→ Pattern Library sheet
+
+---
+
+# 3️⃣ Theme Clustering Prompt
+
+**Purpose:** Identify broader strategic expertise territories.
+
+---
+
+### 📌 Prompt
+
+```
+You are a strategic positioning analyst.
+
+Based on the patterns below:
+
+1. Identify 3–5 broader expertise themes.
+2. Each theme must:
+   - Sound strategic and marketable
+   - Represent a monetizable knowledge territory
+   - Be usable as a consulting or product positioning pillar
+
+Patterns:
+[Paste pattern names + descriptions here]
+```
+
+---
+
+### 🎯 Output Goes To:
+
+Structured_Knowledge_Framework.xlsx
+
+→ Expertise Themes sheet
+
+---
+
+# 4️⃣ Prompt Module Generator
+
+**Purpose:** Convert structured logic into reusable AI modules.
+
+---
+
+### 📌 Prompt
+
+```
+You are an AI systems designer.
+
+Using the structured decision logic below, generate a reusable AI prompt module.
+
+Format strictly as:
+
+System Role:
+Context Block:
+Instruction Block:
+Output Format:
+
+Rules:
+- System Role must sound professional (e.g., AI Governance Advisor, AI Revenue Strategist).
+- Output Format must be structured with bullet sections.
+- Make it reusable across industries.
+
+Structured Logic:
+[Paste one structured logic entry here]
+```
+
+---
+
+### 🎯 Output Goes To:
+
+03_AI_Prompt_Module_Library.xlsx
+
+---
+
+# 5️⃣ Monetization Mapper Prompt
+
+**Purpose:** Convert expertise into product and revenue opportunities.
+
+---
+
+### 📌 Prompt
+
+```
+You are a product strategy advisor.
+
+Using the expertise theme and patterns below, generate:
+
+1. Digital product concept
+2. Consulting offer concept
+3. Lightweight SaaS concept
+4. Suggested price range for each
+5. Target audience (clear ICP)
+6. One-line positioning statement
+
+Theme:
+[Paste one theme]
+
+Related Patterns:
+[Paste relevant patterns]
+```
+
+---
+
+### 🎯 Output Goes To:
+
+05_Monetization_Blueprint_Report.docx
+
+---
+
+# 🔁 How These Prompts Work Together
+
+Raw Knowledge
+
+→ Logic Extraction
+
+→ Pattern Identification
+
+→ Theme Clustering
+
+→ AI Module Creation
+
+→ Monetization Mapping
+
+This is the AKME engine flow.
+
+---
+
+# 💎 Why This Page Is Important
+
+This page turns ChatGPT into:
+
+- Knowledge extraction engine
+- Pattern mining system
+- AI module builder
+- Product strategy simulator
+
+Without this page, AKME is just templates.
+
+With this page, AKME becomes a strategic system.
+
+---
